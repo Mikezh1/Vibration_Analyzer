@@ -1,4 +1,4 @@
-# Vibration-Analyzser based on FreeRTOS+STM32
+# Vibration-Analyzer based on FreeRTOS+STM32
 
 Embedded Software Design with `FreeRTOS and STM32F103C8T6` (FFT Vibration Signal Processing) and PC Software Design with `Python` and PyQt
 
