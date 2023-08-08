@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/freertos.c:102:6:MPU6050_Init	80	static
+../Core/Src/freertos.c:147:6:MPU6050_Read_Accel	40	static
+../Core/Src/freertos.c:175:6:PowerMag	80	static
+../Core/Src/freertos.c:196:6:initCircularBuffer	16	static
+../Core/Src/freertos.c:203:6:addToCircularBuffer	16	static
+../Core/Src/freertos.c:214:5:readFromCircularBuffer	24	static
+../Core/Src/freertos.c:224:5:getCircularBufferCount	16	static
+../Core/Src/freertos.c:230:6:copyCircularBufferToArray	40	static
+../Core/Src/freertos.c:240:6:printCircularBuffer	24	static
+../Core/Src/freertos.c:249:5:findMaxIndex	24	static
+../Core/Src/freertos.c:279:13:vApplicationStackOverflowHook	72	static
+../Core/Src/freertos.c:291:13:vApplicationMallocFailedHook	64	static
+../Core/Src/freertos.c:313:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:327:6:MX_FREERTOS_Init	80	static
+../Core/Src/freertos.c:374:6:FFT_and_Send_Task	96	static
+../Core/Src/freertos.c:473:6:Sample_Task	48	static
