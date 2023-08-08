@@ -1,0 +1,10 @@
+matplotlib
+matplotlib-inline
+PyQt5==5.15.7
+PyQt5-sip
+pyqtgraph==0.13.3
+PyQtWebEngine==5.15.4
+pyserial==3.5
+QtAwesome
+qtconsole
+QtPy
