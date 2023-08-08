@@ -1,7 +1,10 @@
 # Vibration-Analyzser based on FreeRTOS+STM32
 
-Embedded Software Design with FreeRTOS and STM32F103C8T6 (FFT Vibration Signal Processing) and PC Software Design with Python and PyQt
-![Host Computer Software](images/Host_computer_SW2.png)
+Embedded Software Design with `FreeRTOS and STM32F103C8T6` (FFT Vibration Signal Processing) and PC Software Design with `Python` and PyQt
+
+Screenshot of the host computer software:
+
+<img src="images/Host_computer_SW2.png" alt="Host Computer Software" style="width:400px;height:300px;">
 
 ## Specifications
 * Spectral resolution: 1.95 Hz
