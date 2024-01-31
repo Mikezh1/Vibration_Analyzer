@@ -5,6 +5,7 @@ Embedded Software Design with `FreeRTOS and STM32F103C8T6` (FFT Vibration Signal
 Screenshot of the host computer software:
 
 <img src="images/Host_computer_SW2.png" alt="Host Computer Software" style="width:400px;height:300px;">
+<img src="images/structure.pdf" alt="structure" style="width:400px;height:300px;">
 
 ## Specifications
 * Spectral resolution: 1.95 Hz
